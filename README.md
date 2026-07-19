@@ -1,4 +1,4 @@
-# 🩺 Breast Cancer Diagnosis Prediction API
+# 🩺 Breast Cancer Diagnosis Prediction 
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-REST%20API-009688)
