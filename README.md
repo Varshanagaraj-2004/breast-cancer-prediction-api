@@ -1,7 +1,8 @@
-<img width="959" height="467" alt="Screenshot 2026-07-19 185940" src="https://github.com/user-attachments/assets/39c93916-7bde-4717-a0ac-a55779e63c02" />
-<img width="959" height="448" alt="Screenshot 2026-07-19 185926" src="https://github.com/user-attachments/assets/31c61b59-c7e3-40f4-9270-d5a252fb9e58" />
-<img width="954" height="285" alt="Screenshot 2026-07-19 185855" src="https://github.com/user-attachments/assets/7151c0b3-66b1-4c44-b2b6-8c269ee485cc" />
-<img width="959" height="470" alt="Screenshot 2026-07-19 185842" src="https://github.com/user-attachments/assets/cbf817a9-d5b6-4f80-af92-488d0923ce81" />
+<img width="959" height="470" alt="Screenshot 2026-07-19 185842" src="https://github.com/user-attachments/assets/d2d9cbbc-ab8a-419c-8b9a-c0f5a196c2b4" />
+<img width="954" height="285" alt="Screenshot 2026-07-19 185855" src="https://github.com/user-attachments/assets/c4e99f8f-8720-450c-8b8a-1c367e7e755a" />
+<img width="959" height="448" alt="Screenshot 2026-07-19 185926" src="https://github.com/user-attachments/assets/8d28408f-e518-4641-ba6d-eb60beba87d3" />
+<img width="959" height="467" alt="Screenshot 2026-07-19 185940" src="https://github.com/user-attachments/assets/48f245c5-9534-4838-8aa6-2834d636a52d" />
+
 # 🩺 Breast Cancer Diagnosis Prediction 
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
