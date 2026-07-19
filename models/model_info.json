@@ -1,0 +1,37 @@
+{
+  "best_model_name": "SVM (RBF)",
+  "results": {
+    "Logistic Regression": {
+      "cv_accuracy": 0.9736263736263737,
+      "test_accuracy": 0.9649122807017544,
+      "precision": 0.975,
+      "recall": 0.9285714285714286,
+      "f1": 0.9512195121951219,
+      "roc_auc": 0.996031746031746
+    },
+    "SVM (RBF)": {
+      "cv_accuracy": 0.9714285714285713,
+      "test_accuracy": 0.9736842105263158,
+      "precision": 1.0,
+      "recall": 0.9285714285714286,
+      "f1": 0.9629629629629629,
+      "roc_auc": 0.9947089947089947
+    },
+    "Random Forest": {
+      "cv_accuracy": 0.9604395604395606,
+      "test_accuracy": 0.9736842105263158,
+      "precision": 1.0,
+      "recall": 0.9285714285714286,
+      "f1": 0.9629629629629629,
+      "roc_auc": 0.9943783068783069
+    },
+    "XGBoost": {
+      "cv_accuracy": 0.9714285714285715,
+      "test_accuracy": 0.9649122807017544,
+      "precision": 1.0,
+      "recall": 0.9047619047619048,
+      "f1": 0.95,
+      "roc_auc": 0.9937169312169313
+    }
+  }
+}
